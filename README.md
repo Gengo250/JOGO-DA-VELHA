@@ -82,7 +82,3 @@ Este projeto faz parte da coleção **GAMES_C_plus_plus**.
 
 ---
 
-## 📢 Contribuições
-
-Sinta-se à vontade para abrir issues, forks ou pull requests com melhorias, sugestões ou variações do jogo.  
-Vamos construir juntos soluções mais robustas e divertidas!
